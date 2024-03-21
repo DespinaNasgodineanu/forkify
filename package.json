@@ -2,6 +2,7 @@
   "name": "forkify",
   "version": "1.0.1",
   "description": "recipe application",
+  "homepage": "https://despinanasgodineanu.github.io/forkify",
   "dependencies": {
     "abortcontroller-polyfill": "^1.7.5",
     "ansi-regex": "^5.0.1",
@@ -112,7 +113,7 @@
   },
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html",
+    "build": "parcel build index.html --no-scope-hoist --public-url ./",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },

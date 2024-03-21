@@ -1,4 +1,4 @@
-10175
+10304
 77C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\micromatch\README.md133555162889375276 0
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\instance\unshift.js133555162952752776 0
 67C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\filenamify133555168174528588 1
@@ -35,7 +35,7 @@
 102C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\dom-token-list-prototype.js133555162914058309 0
 80C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\stage\README.md133555162953812760 0
 65C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\mdn-data133555162895766997 1
-48C:\Users\nicol\Desktop\repos-despii\forkify\dist133555168216891303 1
+48C:\Users\nicol\Desktop\repos-despii\forkify\dist133555200192936072 1
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\features\iterator\indexed.js133555162938764283 0
 126C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\index.d.ts.map133555162893855247 0
 80C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\ordered-binary\index.js133555162890375257 0
@@ -63,14 +63,14 @@
 104C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\features\css-text-box-trim.js133555162905458303 0
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\stable\string\small.js133555162946534355 0
 90C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-tree\lib\syntax\node\index.js133555162904328311 0
-54C:\Users\nicol\Desktop\repos-despii\forkify\index.html133555162561675651 0
+54C:\Users\nicol\Desktop\repos-despii\forkify\index.html133555196496637885 0
 98C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\length-of-array-like.js133555162941224270 0
 82C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\lib\replace\index.js133555162899286988 0
-56C:\Users\nicol\Desktop\repos-despii\forkify\node_modules133555168176567142 1
+56C:\Users\nicol\Desktop\repos-despii\forkify\node_modules133555189502181759 1
 83C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\math\asinh.js133555162901737064 0
 90C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\workers\src\childState.js133555162898816997 0
 65C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\msgpackr133555162897846992 1
-61C:\Users\nicol\Desktop\repos-despii\forkify\package-lock.json133555168177492938 0
+61C:\Users\nicol\Desktop\repos-despii\forkify\package-lock.json133555189502831887 0
 76C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\_\_get133555162905988316 1
 75C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\dom-serializer\lib133555162893165282 1
 89C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\actual\symbol\replace.js133555162944985782 0
@@ -79,7 +79,7 @@
 128C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\tokenizer\utils.js133555162901966993 0
 92C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\update-browserslist-db\package.json133555162889995277 0
 126C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\dir.js133555162896186989 0
-56C:\Users\nicol\Desktop\repos-despii\forkify\package.json133555168212021283 0
+56C:\Users\nicol\Desktop\repos-despii\forkify\package.json133555200136028657 0
 62C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@lmdb133555162881345075 1
 92C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\stable\string\trim-right.js133555162951982796 0
 100C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\features\sharedworkers.js133555162922090297 0
@@ -222,7 +222,7 @@
 74C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\lines-and-columns133555162889185283 1
 81C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\semver\internal\debug.js133555162892055257 0
 124C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-json5133555162927022311 0
-70C:\Users\nicol\Desktop\repos-despii\forkify\src\js\views\recipeView.js133555162561782120 0
+70C:\Users\nicol\Desktop\repos-despii\forkify\src\js\views\recipeView.js133555199426064427 0
 97C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\actual\array\virtual\for-each.js133555162931912309 0
 84C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\graph\src\BitSet.js133555162921210624 0
 101C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\error-stack-installable.js133555162916100301 0
@@ -345,7 +345,9 @@
 85C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\svgo\plugins\cleanupAttrs.js133555162896676990 0
 130C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-xml.js.map133555162895056990 0
 68C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\strip-outer133555168173871061 1
-75C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.package-lock.json133555168178180268 0
+94C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\core\lib\SymbolPropagation.js133555162929292314 0
+63C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache133555171839660054 1
+75C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.package-lock.json133555189503191852 0
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\cjs\_to_array.cjs133555162899377096 0
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-tree\cjs\syntax\atrule\index.cjs133555162897747020 0
 90C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\graph\lib\ContentGraph.js133555162921300307 0
@@ -455,6 +457,7 @@
 82C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\src\_set.mjs133555162912528329 0
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\svgo\plugins\removeOffCanvasPaths.js133555162899767000 0
 81C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\features\btoa.js133555162905158311 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\25\ca3ffab6520f02f7aa27d07bd709aeb8ee2a87133555197631603361 0
 62C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\clone133555162891355274 1
 80C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\fractional\package.json133555162888235283 0
 99C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\features\cryptography.js133555162901956987 0
@@ -515,9 +518,11 @@
 65C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-what133555162893715250 1
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\features\typed-array\find.js133555162930782330 0
 95C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\array\virtual\to-spliced.js133555162950992765 0
+134C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects133555197628636987 1
 80C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\normalize-path\index.js133555162887845246 0
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\stable\dom-collections133555162940514260 1
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\cjs\restructure\index.cjs133555162894947015 0
+133C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\config133555197632253451 0
 61C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso133555162900687028 1
 103C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\features\user-select-none.js133555162924000308 0
 76C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\fill-range\index.js133555162887855248 0
@@ -1100,6 +1105,7 @@
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\map\delete-all.js133555162912928321 0
 97C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\utility-types\dist\aliases-and-guards.js133555162888685257 0
 101C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\utility-types\dist\aliases-and-guards.js.map133555162891295264 0
+144C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.f7626f62.css.map133555197631083357 0
 97C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\utility-types\dist\functional-helpers.js133555162889265264 0
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\regions\GH.js133555162910648320 0
 96C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\stable\array\virtual\unshift.js133555162952812773 0
@@ -1111,6 +1117,7 @@
 124C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\README.md133555162921210624 0
 84C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\set\add-all.js133555162894936998 0
 94C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\dom-serializer\lib\esm\index.d.ts.map133555162891975250 0
+156C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\pre-merge-commit.sample133555171845450978 0
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\array\virtual\index-of.js133555162937034251 0
 95C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\source-map\lib\source-map-generator.js133555162892395270 0
 101C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\utility-types\dist\functional-helpers.js.map133555162891575277 0
@@ -1188,6 +1195,7 @@
 89C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\esnext.set.of.js133555162927252333 0
 74C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\tslib\SECURITY.md133555162892105253 0
 76C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\locate-path\license133555168173764321 0
+150C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\commit-msg.sample133555171845421005 0
 89C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\update-browserslist-db\README.md133555162890415277 0
 114C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\IdSelector.cjs133555162922640307 0
 97C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\cjs\_async_to_generator.cjs133555162893615250 0
@@ -1276,6 +1284,7 @@
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\lines-and-columns\package.json133555162888765261 0
 100C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\object-define-property.js133555162942744264 0
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\type-fest\ts41\camel-case.d.ts133555162891225269 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\6f\b33e39b6cbc61e7acc2f15e54ee702ddd12de2133555180798835952 0
 91C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\type-fest\ts41\delimiter-case.d.ts133555162892305267 0
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\actual\iterator\map.js133555162941744270 0
 85C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\web\dom-exception.js133555162914008308 0
@@ -1352,6 +1361,7 @@
 100C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\node_modules\css-tree\lib\syntax\scope133555162926332325 1
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\es.weak-set.js133555162924672324 0
 85C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\type-fest\source\except.d.ts133555162892915258 0
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\77133555188210367883 1
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\stable\array\entries.js133555162915770335 0
 79C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\js-yaml\lib\snippet.js133555162894826994 0
 74C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\boolbase\index.js133555162888645262 0
@@ -1605,7 +1615,7 @@
 98C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\node_modules\mdn-data\css\types.json133555162921930309 0
 107C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\core\test\fixtures\invalid-source-not-file133555162930312313 1
 102C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\features\async-clipboard.js133555162896037021 0
-66C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.e37f48ea.js133555168216671315 0
+66C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.e37f48ea.js133555200143752213 0
 74C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\sass\sass.dart.js133555162898786997 0
 65C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\svgo\bin133555162889335251 1
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\regions\AG.js133555162892845259 0
@@ -1712,6 +1722,7 @@
 97C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\get-iterator-direct.js133555162934564244 0
 89C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\svgo\plugins\sortDefsChildren.js133555162900677010 0
 80C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\lib\replace\atrule133555162899537001 1
+156C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs\refs\remotes\origin\HEAD133555171977225153 0
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\_\_class_name_tdz_error133555162904888323 1
 121C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\properties.json133555162893715250 0
 85C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\svgo\plugins\_collections.js133555162896266986 0
@@ -1803,7 +1814,7 @@
 76C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\strip-outer\license133555168173754335 0
 76C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\lmdb\dict\dict2.txt133555162903067017 0
 97C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\features\instance\copy-within.js133555162909658325 0
-67C:\Users\nicol\Desktop\repos-despii\forkify\dist\icons.dfd7a6db.svg133555168216872463 0
+67C:\Users\nicol\Desktop\repos-despii\forkify\dist\icons.dfd7a6db.svg133555200143932195 0
 105C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\features\keyboardevent-code.js133555162914018317 0
 80C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\semver\functions\inc.js133555162893455284 0
 78C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\fractional\index.html133555162890835278 0
@@ -1897,6 +1908,7 @@
 99C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\es.object.lookup-getter.js133555162921600279 0
 91C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\lines-and-columns\build\index.d.ts133555162889695262 0
 75C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\micromatch\LICENSE133555162886755239 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\fe\046ebd24425c34d91dc2b75f22f99180962905133555191301132823 0
 99C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\function-bind-context.js133555162933732307 0
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\stable\string\virtual\sub.js133555162947934589 0
 90C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\source-map-js\lib\mapping-list.js133555162890275273 0
@@ -2148,7 +2160,7 @@
 101C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\es.object.define-property.js133555162920762217 0
 86C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\sass\types\legacy\render.d.ts133555162900966991 0
 103C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\src\_interop_require_wildcard.mjs133555162911768321 0
-69C:\Users\nicol\Desktop\repos-despii\forkify\dist\favicon.8b2f57bf.png133555168216521324 0
+69C:\Users\nicol\Desktop\repos-despii\forkify\dist\favicon.8b2f57bf.png133555200143572202 0
 83C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\fails.js133555162928672310 0
 96C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\stable\dom-collections\index.js133555162938504269 0
 76C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\safe-buffer\LICENSE133555162886735260 0
@@ -2266,7 +2278,6 @@
 77C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\filenamify\readme.md133555168174241068 0
 95C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@mischnic\json-sourcemap\dist\index.js133555162923590347 0
 86C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\posthtml-render\dist\index.js133555162888685257 0
-87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\microtask.js133555162942464253 0
 77C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\posthtml-parser\dist133555162891915267 1
 129C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\_\_class_check_private_static_field_descriptor\package.json133555162904748329 0
 85C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\posthtml-parser\package.json133555162890265306 0
@@ -2431,6 +2442,7 @@
 129C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\README.md133555162921230291 0
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\json\stringify.js133555162947744572 0
 97C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\features\css-sticky.js133555162905328323 0
+143C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.3601363b.js.map133555197631143373 0
 76C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\parcel\package.json133555162891465251 0
 82C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\parcel\src\.eslintrc.json133555162891095265 0
 136C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\DeclarationList.js133555162896016999 0
@@ -2486,7 +2498,7 @@
 123C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-select\node_modules\entities\lib\esm\decode_codepoint.d.ts.map133555162894216999 0
 105C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\runtime-js\src\helpers\get-worker-url.js133555162909728337 0
 77C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\p-limit\package.json133555168173594352 0
-74C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.runtime.56109c61.js133555164492898378 0
+74C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.runtime.56109c61.js133555197434446073 0
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\regions\KN.js133555162914260299 0
 82C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\ordered-binary\index.d.ts133555162893665254 0
 77C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\ordered-binary\.idea133555162893735250 1
@@ -2547,6 +2559,7 @@
 81C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\nullthrows\nullthrows.js133555162889635254 0
 81C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\_\_to_array133555162907098311 1
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\_\_extends\package.json133555162905918326 0
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\FETCH_HEAD133555197628317005 0
 72C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\async\reduce.js133555168175811903 0
 74C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\fs-extra\lib\json133555168174985689 1
 98C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\features\geolocation.js133555162910338316 0
@@ -2661,6 +2674,7 @@
 89C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\es.array.sort.js133555162917220312 0
 92C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\features\symbol\metadata.js133555162942384248 0
 101C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\features\dom-collections\for-each.js133555162932222307 0
+78C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.runtime.2872b594.js.map133555200192896072 0
 81C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\node-addon-api\nothing.c133555162887375271 0
 102C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-select\node_modules\domutils\lib\index.js133555162890915261 0
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\browserVersions.js133555162899566999 0
@@ -2747,14 +2761,6 @@
 71C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\async\every.js133555168175295684 0
 95C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\array\virtual\group-by.js133555162935934247 0
 75C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\msgpackr\struct.js133555162894947015 0
-96C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\proposals\decorator-metadata.js133555162910938337 0
-120C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\units.json133555162894696996 0
-90C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\esnext.set.map.js133555162927242317 0
-94C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\typed-array\uint8-array.js133555162952432804 0
-80C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\domutils\lib\helpers.js133555162888775260 0
-94C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\get-substitution.js133555162935444248 0
-77C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\fractional\README.md133555162889005269 0
-75C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\lmdb\src\lmdb-js.h133555162901357000 0
 94C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\array-buffer\transfer.js133555162951652769 0
 80C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\msgpackr\test-worker.js133555162895017013 0
 77C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\msgpackr\unpack.d.ts133555162897866993 0
@@ -2790,6 +2796,7 @@
 86C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\actual\reflect\has.js133555162936404248 0
 74C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\mdn-data\index.js133555162890145288 0
 90C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-tree\cjs\syntax\node\Rule.cjs133555162900986985 0
+146C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\update.sample133555171845490963 0
 124C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\utils\names.js133555162899677023 0
 70C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\mdn-data\l10n133555162891815279 1
 90C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\es.global-this.js133555162917791067 0
@@ -2903,6 +2910,14 @@
 73C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\lmdb\src\dbi.cpp133555162900447027 0
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\actual\dom-collections133555162940314254 1
 91C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\features\wasm.js133555162924392304 0
+96C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\proposals\decorator-metadata.js133555162910938337 0
+120C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\units.json133555162894696996 0
+90C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\esnext.set.map.js133555162927242317 0
+94C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\typed-array\uint8-array.js133555162952432804 0
+80C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\domutils\lib\helpers.js133555162888775260 0
+94C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\get-substitution.js133555162935444248 0
+77C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\fractional\README.md133555162889005269 0
+75C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\lmdb\src\lmdb-js.h133555162901357000 0
 74C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\lmdb\src\misc.cpp133555162900666997 0
 95C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-tree\cjs\syntax\scope\selector.cjs133555162901106997 0
 84C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\lmdb\src\ordered-binary.cpp133555162900746999 0
@@ -3494,6 +3509,7 @@
 103C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\htmlnano\lib\modules\removeEmptyAttributes.cjs133555162894646993 0
 92C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\es.symbol.search.js133555162923750348 0
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\domutils\lib\traversal.d.ts.map133555162893415252 0
+136C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs\HEAD133555197630573423 0
 107C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\esnext.set.symmetric-difference.js133555162927292321 0
 103C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\htmlnano\lib\modules\removeEmptyAttributes.mjs133555162900636989 0
 96C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\_\_tagged_template_literal133555162906988326 1
@@ -3755,6 +3771,7 @@
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\iterator-define.js133555162940224281 0
 72C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\find-up\license133555168173764321 0
 115C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\parse.cjs133555162923390308 0
+139C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.6ca47eab.js133555197631073383 0
 74C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\find-up\readme.md133555168173911071 0
 84C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\find-cache-dir\package.json133555168173684356 0
 106C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\dist133555162898106995 1
@@ -3966,6 +3983,7 @@
 92C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\domelementtype\lib\esm\package.json133555162889565273 0
 104C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\esnext.object.iterate-values.js133555162926532303 0
 79C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\domutils\lib\legacy.js133555162889845262 0
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\6d133555191301082812 1
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\domutils\lib\manipulation.d.ts133555162894167013 0
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\async\internal\withoutIndex.js133555168176130045 0
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\array-sort.js133555162901007001 0
@@ -4269,6 +4287,7 @@
 118C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\node_modules\css-tree\cjs\tokenizer\OffsetToLocation.cjs133555162923300311 0
 107C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\node_modules\css-tree\cjs\tokenizer\types.cjs133555162924100302 0
 91C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\web.url.to-json.js133555162953442753 0
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\84133555188209087853 1
 107C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\node_modules\css-tree\cjs\tokenizer\utils.cjs133555162924190300 0
 96C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-tree\lib\definition-syntax\parse.js133555162905208319 0
 101C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule133555162923871494 1
@@ -4290,6 +4309,7 @@
 109C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Block.cjs133555162921410301 0
 107C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\CDC.cjs133555162921470308 0
 84C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\export.js133555162928612314 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\aa\e4af573b8ddf26adccf7c31c8ac93174680f85133555197631703357 0
 117C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\ClassSelector.cjs133555162921560296 0
 111C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Comment.cjs133555162921720307 0
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-tree\lib\tokenizer\index.js133555162904408338 0
@@ -4335,6 +4355,7 @@
 112C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\runtime-js\src\helpers\browser\esm-js-loader.js133555162909658325 0
 99C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\function-uncurry-this.js133555162934342328 0
 112C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\config\walker.cjs133555162924280306 0
+146C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\refs\heads\gh-pages133555197450818426 0
 115C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\font-face.cjs133555162922390309 0
 86C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\stable\parse-float.js133555162943464260 0
 112C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\import.cjs133555162922660305 0
@@ -4772,6 +4793,7 @@
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-tree\cjs\syntax\node\AnPlusB.cjs133555162890465257 0
 90C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\es.regexp.test.js133555162922650310 0
 92C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-tree\cjs\syntax\node\Atrule.cjs133555162890845307 0
+160C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs\refs\remotes\origin\gh-pages133555197475298586 0
 103C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-tree\cjs\syntax\node\AttributeSelector.cjs133555162892275261 0
 91C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-tree\cjs\syntax\node\Block.cjs133555162892505265 0
 102C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\src\_tagged_template_literal.mjs133555162912698319 0
@@ -4907,6 +4929,7 @@
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\regions\LK.js133555162914790309 0
 103C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-select\node_modules\entities\lib\generated133555162897176999 1
 99C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\features\array\virtual\iterator.js133555162940404253 0
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\32133555196809942598 1
 108C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-select\node_modules\entities\lib\index.d.ts.map133555162896477014 0
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\cosmiconfig\dist\types.d.ts.map133555162893965303 0
 129C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-select\node_modules\entities\lib\generated\decode-data-html.d.ts.map133555162894627025 0
@@ -5046,6 +5069,7 @@
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\symbol\to-string-tag.js133555162951212765 0
 92C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\features\weak-map\upsert.js133555162952862769 0
 109C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-select\node_modules\domhandler\lib\esm\node.d.ts133555162893155259 0
+189C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\pack\pack-3397c40096101fc13958d45f9ee970e9b4534e25.idx133555171975837680 0
 77C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\callsites\index.d.ts133555162887875261 0
 113C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-select\node_modules\domhandler\lib\esm\node.d.ts.map133555162892105253 0
 107C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\css-select\node_modules\domhandler\lib\esm\node.js133555162889725272 0
@@ -5171,6 +5195,7 @@
 97C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\stable\string\from-code-point.js133555162932952339 0
 85C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\cosmiconfig\dist\Explorer.js133555162889435263 0
 91C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\cosmiconfig\dist\ExplorerSync.d.ts133555162894727001 0
+151C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs\refs\heads\gh-pages133555197450828371 0
 97C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\array\virtual\filter-out.js133555162929062300 0
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\stable\instance\with.js133555162953712771 0
 95C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\cosmiconfig\dist\ExplorerSync.d.ts.map133555162893135250 0
@@ -5528,7 +5553,7 @@
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\stable\instance\sort.js133555162946874382 0
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\regions\AL.js133555162893855247 0
 95C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\proposals\symbol-predicates.js133555162949552770 0
-70C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.6ca47eab.js.map133555164492978382 0
+70C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.6ca47eab.js.map133555197434576044 0
 90C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\stable\instance\splice.js133555162947101483 0
 124C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\CDC.js133555162892365276 0
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\stable\instance\to-sorted.js133555162950922779 0
@@ -5948,8 +5973,9 @@
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\string\code-point-at.js133555162905998318 0
 91C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\actual\string\ends-with.js133555162914490302 0
 99C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\esnext.reflect.metadata.js133555162926942316 0
+151C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\post-update.sample133555171845431292 0
 95C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\string\virtual\pad-end.js133555162943264257 0
-70C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.e37f48ea.js.map133555168216711300 0
+70C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.e37f48ea.js.map133555200143792214 0
 99C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\esnext.array.from-async.js133555162924912326 0
 101C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\esnext.array.group-to-map.js133555162924962323 0
 82C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\core\package.json133555162930102310 0
@@ -6054,6 +6080,7 @@
 97C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\esnext.symbol.matcher.js133555162927612317 0
 98C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\esnext.symbol.metadata.js133555162927652329 0
 96C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\src\_iterable_to_array.mjs133555162912038357 0
+154C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\applypatch-msg.sample133555171845411152 0
 103C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\esnext.symbol.pattern-match.js133555162927672321 0
 82C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\features\function133555162952532764 1
 106C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\modules\esnext.typed-array.to-reversed.js133555162927802327 0
@@ -6216,6 +6243,7 @@
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\math-log10.js133555162942254244 0
 76C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\async\someSeries.js133555168176000030 0
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\math-trunc.js133555162942294257 0
+87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\microtask.js133555162942464253 0
 89C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\math\seeded-prng.js133555162945445792 0
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\native-raw-json.js133555162942544256 0
 103C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\internals\normalize-string-argument.js133555162942564258 0
@@ -6446,6 +6474,7 @@
 97C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\typed-array\reduce-right.js133555162944284289 0
 91C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\typed-array\reduce.js133555162944495799 0
 110C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\cjs\_class_private_field_destructure.cjs133555162894957013 0
+190C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\pack\pack-3397c40096101fc13958d45f9ee970e9b4534e25.pack133555197631563350 0
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\typed-array\set.js133555162946160541 0
 75C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\async\retryable.js133555168175910029 0
 90C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\typed-array\slice.js133555162946434367 0
@@ -6516,6 +6545,7 @@
 128C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\css-select-adapter.js133555162894486999 0
 90C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\features\instance\keys.js133555162940934251 0
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\string\fontsize.js133555162931862311 0
+144C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.628a78b8.css.map133555197631073383 0
 84C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\workers\src\process133555162900537011 1
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\string\includes.js133555162936894247 0
 98C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\features\array\virtual\reverse.js133555162945155791 0
@@ -6530,6 +6560,7 @@
 89C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\string\match-all.js133555162942034253 0
 85C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\string\match.js133555162942154254 0
 89C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\string\pad-start.js133555162943364252 0
+138C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\packed-refs133555171977185071 0
 81C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\array\virtual133555162953602773 1
 104C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\transformer-html\src\HTMLTransformer.js133555162907578312 0
 86C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\string\repeat.js133555162944795804 0
@@ -6672,6 +6703,7 @@
 91C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\number\from-string.js133555162933102301 0
 85C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\number\index.js133555162938294319 0
 90C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\number\is-integer.js133555162939374253 0
+126C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git133555197632263452 1
 86C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\number\is-nan.js133555162939464276 0
 105C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css133555162894746995 1
 95C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\full\number\is-safe-integer.js133555162939614240 0
@@ -7573,6 +7605,7 @@
 92C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\string\virtual\strike.js133555162947438545 0
 81C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\math\acosh.js133555162893955254 0
 89C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\string\virtual\sub.js133555162947864612 0
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\cc133555180798795950 1
 89C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\string\virtual\sup.js133555162948549084 0
 100C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\string\virtual\to-well-formed.js133555162951492779 0
 94C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\string\virtual\trim-end.js133555162951702770 0
@@ -7622,6 +7655,7 @@
 85C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\object\has-own.js133555162936374244 0
 91C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\object\is-extensible.js133555162939164261 0
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\object\is-frozen.js133555162939304798 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\11\9ca571c2a16bda76c92ebbcbcbaa05d2991018133555197631623349 0
 80C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\object\is.js133555162939934265 0
 82C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\object\keys.js133555162940914250 0
 91C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\object\lookup-getter.js133555162941444269 0
@@ -7629,7 +7663,6 @@
 82C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\object\seal.js133555162945295796 0
 102C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\runtime-js\src\helpers\cacheLoader.js133555162909308311 0
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\object\to-string.js133555162951302765 0
-78C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\packager-html133555162917390308 1
 84C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\object\values.js133555162953012757 0
 89C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\number\constructor.js133555162907068315 0
 83C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\es\number\index.js133555162937614266 0
@@ -7962,6 +7995,7 @@
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\regions\ID.js133555162912258316 0
 85C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\actual\math\expm1.js133555162928472316 0
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\actual\math\f16round.js133555162928622320 0
+131C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\HEAD133555197629932189 0
 86C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\actual\math\fround.js133555162933602310 0
 85C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\actual\math\hypot.js133555162936484243 0
 75C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\core\spack.js133555162898506994 0
@@ -8091,7 +8125,7 @@
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\actual\array\reduce-right.js133555162944164245 0
 80C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@lezer\lr\dist\index.js133555162922050305 0
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\actual\array\reverse.js133555162945085802 0
-67C:\Users\nicol\Desktop\repos-despii\forkify\dist\icons.21bad73c.svg133555168216871300 0
+67C:\Users\nicol\Desktop\repos-despii\forkify\dist\icons.21bad73c.svg133555200143932195 0
 90C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\features\ttf.js133555162923620314 0
 86C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\actual\array\slice.js133555162946300130 0
 85C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\core-js\actual\array\sort.js133555162946754377 0
@@ -8257,6 +8291,7 @@
 129C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\api\inheritance.schema.json133555162892755270 0
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\regions\KE.js133555162913958326 0
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\regions\KG.js133555162914138312 0
+138C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\description133555171845400947 0
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\regions\KH.js133555162914188309 0
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\node-resolver-core\lib133555162920890309 1
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\regions\KI.js133555162914218340 0
@@ -8391,7 +8426,7 @@
 108C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\features\css-container-queries.js133555162902677004 0
 77C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\packager-css133555162911698311 1
 109C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\features\css-content-visibility.js133555162902766994 0
-66C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.6ca47eab.js133555164492898378 0
+66C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.6ca47eab.js133555197434446073 0
 101C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\features\css-cross-fade.js133555162902876997 0
 103C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\features\css-env-function.js133555162903207003 0
 101C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\caniuse-lite\data\features\css-exclusions.js133555162903237000 0
@@ -8699,6 +8734,7 @@
 73C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\async\forEach.js133555168175451915 0
 75C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\async\forEachOf.js133555168175471928 0
 78C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\async\groupByLimit.js133555168175531913 0
+151C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.runtime.56109c61.js.map133555197631083357 0
 79C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\async\groupBySeries.js133555168175541914 0
 112C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\_\_initializer_warning_helper\package.json133555162906128314 0
 71C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\async\index.js133555168175561947 0
@@ -8775,6 +8811,7 @@
 92C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\_\_array_without_holes133555162904067021 1
 97C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\_\_async_generator_delegate133555162904137006 1
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\_\_async_iterator133555162904238308 1
+139C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\info\exclude133555171845500954 0
 85C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\events\src\errors.js133555162921000303 0
 91C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\_\_async_to_generator133555162904278317 1
 99C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\_\_class_apply_descriptor_get133555162904458316 1
@@ -8923,6 +8960,7 @@
 92C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\esm\_async_iterator.js133555162900957006 0
 76C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\core\README.md133555162899406985 0
 96C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\esm\_async_to_generator.js133555162900996992 0
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\7d133555196810012596 1
 83C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\utils\.eslintrc.js133555162898046994 0
 89C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\esm\_await_value.js133555162901057001 0
 107C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\esm\_class_apply_descriptor_update.js133555162901246998 0
@@ -8977,7 +9015,7 @@
 94C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\cjs\_define_property.cjs133555162896427005 0
 90C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\cjs\_export_star.cjs133555162896556994 0
 95C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\cjs\_write_only_error.cjs133555162900327001 0
-78C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.runtime.56109c61.js.map133555164492968378 0
+78C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.runtime.56109c61.js.map133555197434566052 0
 86C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\cjs\_extends.cjs133555162896617001 0
 82C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\cjs\_get.cjs133555162896747003 0
 95C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@swc\helpers\cjs\_get_prototype_of.cjs133555162896676990 0
@@ -9015,6 +9053,7 @@
 83C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\node-resolver-core133555162920990305 1
 79C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo133555162921280306 1
 80C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\package-manager133555162922540308 1
+78C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\packager-html133555162917390308 1
 77C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\packager-raw133555162916960310 1
 77C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\packager-svg133555162916660304 1
 78C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\packager-wasm133555162914610299 1
@@ -9040,7 +9079,7 @@
 72C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\workers133555162901747005 1
 83C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\workers\index.d.ts133555162901757002 0
 77C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\workers\test133555162901647011 1
-66C:\Users\nicol\Desktop\repos-despii\forkify\dist\logo.726d37a8.png133555168216721303 0
+66C:\Users\nicol\Desktop\repos-despii\forkify\dist\logo.726d37a8.png133555200143762204 0
 94C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\workers\test\cpuCount.test.js133555162899606996 0
 89C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\workers\test\integration133555162898887034 1
 100C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\workers\test\integration\workerfarm133555162900738012 1
@@ -9186,6 +9225,7 @@
 86C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\transformer-image\lib133555162895916991 1
 90C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\transformer-image\LICENSE133555162895567005 0
 95C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\transformer-image\package.json133555162896056999 0
+139C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\info133555171845590977 1
 86C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\transformer-image\src133555162895976995 1
 99C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\transformer-image\src\loadSharp.js133555162895886996 0
 133C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\api\inheritance.schema.json133555162892755270 0
@@ -9195,6 +9235,7 @@
 104C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\transformer-image\lib\validateConfig.js133555162895936992 0
 85C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\transformer-html\lib133555162907598307 1
 89C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\transformer-html\LICENSE133555162907368317 0
+142C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\refs\heads\main133555171977265425 0
 94C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\transformer-html\package.json133555162907688317 0
 85C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\transformer-html\src133555162907628325 1
 101C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\transformer-html\src\dependencies.js133555162907508328 0
@@ -9410,6 +9451,7 @@
 92C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\package-manager\src\Pnpm.js133555162921880321 0
 106C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\package-manager\src\promiseFromProcess.js133555162921910306 0
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\package-manager\src\types.js133555162921940319 0
+151C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\pre-receive.sample133555171845470965 0
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\package-manager\src\utils.js133555162921960323 0
 111C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\package-manager\src\validateModuleSpecifier.js133555162921980296 0
 92C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\package-manager\src\Yarn.js133555162922040301 0
@@ -9455,7 +9497,7 @@
 124C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeEmptyText.js133555162896586997 0
 126C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeHiddenElems.js133555162896656981 0
 123C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeMetadata.js133555162896716983 0
-67C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.628a78b8.css133555164492898378 0
+67C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.628a78b8.css133555197434416065 0
 129C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeOffCanvasPaths.js133555162896816996 0
 120C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeTitle.js133555162897037001 0
 123C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUnusedNS.js133555162897136989 0
@@ -9496,6 +9538,7 @@
 122C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\api\inheritance.json133555162892535270 0
 102C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\csso\dist133555162894447017 1
 101C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib133555162896276998 1
+141C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\COMMIT_EDITMSG133555197450758318 0
 107C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\csso\README.md133555162896747003 0
 107C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean133555162896497001 1
 113C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure133555162896386999 1
@@ -9525,6 +9568,7 @@
 117C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Atrule.js133555162891845277 0
 118C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Comment.js133555162893435249 0
 114C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Raw.js133555162895976995 0
+140C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\icons.e417a8d9.svg133555197631073383 0
 91C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\core\lib\Transformation.js133555162929602303 0
 115C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Rule.js133555162896047009 0
 123C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\TypeSelector.js133555162896186989 0
@@ -9555,10 +9599,11 @@
 117C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node133555162902087001 1
 119C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo133555162901226991 1
 118C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope133555162901976998 1
+146C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\refs\remotes\origin133555197650677868 1
 135C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133555162891295264 0
 129C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope\default.js133555162896067040 0
 130C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope\selector.js133555162901116997 0
-71C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.628a78b8.css.map133555164492968378 0
+71C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.628a78b8.css.map133555197434566052 0
 127C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\lang.js133555162898557020 0
 126C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\not.js133555162899706990 0
 137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-last-child.js133555162899886990 0
@@ -9651,6 +9696,7 @@
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-image\package.json133555162920700321 0
 102C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js133555162920550336 0
 96C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\package.json133555162913658303 0
+158C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\prepare-commit-msg.sample133555171845480964 0
 108C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\src\HTMLNanoOptimizer.js133555162913568325 0
 102C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\src\svgMappings.js133555162913628324 0
 101C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\.bin133555162954382795 1
@@ -9761,6 +9807,7 @@
 73C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@babel\highlight133555162920920302 1
 118C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\index.js133555162897436997 0
 115C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer133555162901866993 1
+139C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.e37f48ea.js133555197631163378 0
 116C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\parser133555162901226991 1
 116C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax133555162898726993 1
 119C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\tokenizer133555162901956987 1
@@ -9841,6 +9888,7 @@
 124C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\general.d.ts133555162895056990 0
 122C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\index.d.ts133555162895256998 0
 124C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\procedure.js133555162891785260 0
+148C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\pre-push.sample133555171845460971 0
 128C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors133555162895587019 1
 121C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\sort.d.ts133555162895536992 0
 125C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\sort.d.ts.map133555162894256992 0
@@ -10038,7 +10086,6 @@
 91C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\core\lib\ReporterRunner.js133555162928972311 0
 82C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\core\lib\requests133555162930052314 1
 99C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\core\lib\serializerCore.browser.js133555162929192319 0
-94C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\core\lib\SymbolPropagation.js133555162929292314 0
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\core\lib\UncommittedAsset.js133555162929763381 0
 87C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\core\lib\Validation.js133555162929872319 0
 103C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\core\lib\requests\AssetGraphRequest.js133555162927252333 0
@@ -10073,6 +10120,7 @@
 83C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\cache\src\index.js133555162921310301 0
 94C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\cache\lib\IDBCache.browser.js133555162921040375 0
 83C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\cache\lib\index.js133555162921280306 0
+74C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.runtime.da0bc508.js133555195792075072 0
 84C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\bundler-default\lib133555162926712312 1
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\bundler-default\LICENSE133555162926702308 0
 93C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@parcel\bundler-default\package.json133555162926912308 0
@@ -10094,6 +10142,7 @@
 81C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@lezer\lr\dist\index.cjs133555162921920301 0
 82C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@lezer\lr\dist\index.d.ts133555162922200298 0
 86C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@lezer\common\dist\index.d.ts133555162923250316 0
+143C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.e37f48ea.js.map133555197631173375 0
 84C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@lezer\common\dist\index.js133555162923160302 0
 86C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@babel\highlight\package.json133555162920950326 0
 83C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@babel\highlight\README.md133555162920560327 0
@@ -10145,6 +10194,75 @@
 106C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@babel\code-frame\node_modules\chalk\templates.js133555162890235277 0
 99C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@babel\code-frame\node_modules\chalk\types133555162890635262 1
 110C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\@babel\code-frame\node_modules\chalk\types\index.d.ts133555162890705263 0
+72C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages133555171845381300 1
+121C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git133555197631053341 1
+142C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\favicon.42656662.png133555197631063351 0
+142C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\favicon.8b2f57bf.png133555197631063351 0
+142C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\favicon.9a1bb8f5.png133555197631063351 0
+140C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\icons.21bad73c.svg133555197631073383 0
+140C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\icons.c14567a0.svg133555197631073383 0
+140C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\icons.dfd7a6db.svg133555197631073383 0
+139C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.3601363b.js133555197631103388 0
+140C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.40faa0b3.css133555197631073383 0
+144C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.40faa0b3.css.map133555197631073383 0
+140C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.628a78b8.css133555197631073383 0
+143C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.6ca47eab.js.map133555197631173375 0
+140C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.f7626f62.css133555197631083357 0
+132C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.html133555197631083357 0
+147C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.runtime.56109c61.js133555197631083357 0
+147C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.runtime.da0bc508.js133555197631083357 0
+151C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.runtime.da0bc508.js.map133555197631083357 0
+139C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\logo.726d37a8.png133555197631133380 0
+139C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\logo.833dfef5.png133555197631083357 0
+139C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\logo.9272a069.png133555197631133380 0
+132C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks133555171845490963 1
+132C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\index133555197631743679 0
+131C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\info133555171845490963 1
+131C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs133555171977265425 1
+136C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\ORIG_HEAD133555197630533380 0
+131C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\refs133555171977205159 1
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\refs\heads133555197630583370 1
+139C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\refs\remotes133555171977205159 1
+136C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\refs\tags133555171845510968 1
+155C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\refs\remotes\origin\gh-pages133555197475288560 0
+151C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\refs\remotes\origin\HEAD133555171977225153 0
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\11133555188208947853 1
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\13133555197450788318 1
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\20133555172002672303 1
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\25133555188208907854 1
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\6f133555180798845949 1
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\9a133555197450718344 1
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\9e133555188209057859 1
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\aa133555188210427863 1
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\b2133555188209107877 1
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\c5133555188208857878 1
+137C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\fe133555191301142826 1
+139C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\pack133555171977311239 1
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\cc\cb2c94341db0520d45d83e3fae1ec054f03ac7133555180798785902 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\c5\581ecedaa2c1523cb3d748706f535d6a1230fe133555197631583354 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\b2\6c9c8da76d92fff3fd5ff86db0c58cf18192bc133555197631713353 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\aa\b7818283cd21d5a9b3607741736155f596f1c8133555188210417855 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\9e\cf38d628d7bc27482fb40247f86285d0e9fe6c133555189681247620 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\9a\deed755e8ebdbff388f67c1e179c64194dcf2d133555197450698344 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\84\a30dbc8fbbed1e9dbecb023fa6bc0566783ccb133555197631713353 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\7d\9e0c0ed281dfae82d4aa8d37166df4ec803738133555196810002586 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\77\3ec733fdbcb32d28ff47e7690e4c8653904d79133555188210357878 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\6d\a2348f74773929a079d585a56503362fa7b9b3133555191301072802 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\32\e5aa6bb433792b3894e16966927df7c6266eb6133555196809922591 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\20\f28ccd5084dc86aa0f2521f07df2144830bdb5133555172002652294 0
+59C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.html133555200192796074 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\13\70f3f2c018dc1c8c17512ab4064e5d24b95af7133555197631613367 0
+176C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\13\aeda0dc633507ae30aad9a45ef1a1cfdeb3847133555197450768319 0
+136C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs\refs133555171977275154 1
+142C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs\refs\heads133555172002692535 1
+144C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs\refs\remotes133555171977215157 1
+151C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs\refs\remotes\origin133555172032024113 1
+147C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs\refs\heads\main133555171977275154 0
+158C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\fsmonitor-watchman.sample133555171845431292 0
+154C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\pre-applypatch.sample133555171845440947 0
+150C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\pre-commit.sample133555171845450978 0
+150C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\pre-rebase.sample133555171845460971 0
+156C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\push-to-checkout.sample133555171845480964 0
 78C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.bin\browserslist.cmd133555162954462763 0
 77C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.bin\detect-libc.cmd133555162954472774 0
 77C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.bin\detect-libc.ps1133555162954472774 0
@@ -10167,10 +10285,21 @@
 70C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.bin\svgo.cmd133555162954529483 0
 84C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.bin\update-browserslist-db133555162954529483 0
 88C:\Users\nicol\Desktop\repos-despii\forkify\node_modules\.bin\update-browserslist-db.cmd133555162954529483 0
-69C:\Users\nicol\Desktop\repos-despii\forkify\dist\favicon.42656662.png133555164430401275 0
-67C:\Users\nicol\Desktop\repos-despii\forkify\dist\icons.c14567a0.svg133555164491888389 0
-79C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.e37f48ea.js.map.14536.1r133555162561475669 0
-67C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.f7626f62.css133555168216481305 0
-71C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.f7626f62.css.map133555168216521324 0
-59C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.html133555168216872463 0
-66C:\Users\nicol\Desktop\repos-despii\forkify\dist\logo.833dfef5.png133555164432690928 0
+69C:\Users\nicol\Desktop\repos-despii\forkify\dist\favicon.42656662.png133555200184201527 0
+69C:\Users\nicol\Desktop\repos-despii\forkify\dist\favicon.9a1bb8f5.png133555195791485233 0
+67C:\Users\nicol\Desktop\repos-despii\forkify\dist\icons.c14567a0.svg133555200191996080 0
+67C:\Users\nicol\Desktop\repos-despii\forkify\dist\icons.e417a8d9.svg133555195792075072 0
+67C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.22417f31.css133555200192796074 0
+71C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.22417f31.css.map133555200192906085 0
+66C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.3601363b.js133555195792105094 0
+70C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.3601363b.js.map133555195792225075 0
+67C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.40faa0b3.css133555195792075072 0
+71C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.40faa0b3.css.map133555195792205062 0
+66C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.b212351f.js133555200192796074 0
+70C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.b212351f.js.map133555200192906085 0
+67C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.f7626f62.css133555200143422211 0
+71C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.f7626f62.css.map133555200143462228 0
+74C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.runtime.2872b594.js133555200192796074 0
+78C:\Users\nicol\Desktop\repos-despii\forkify\dist\index.runtime.da0bc508.js.map133555195792205062 0
+66C:\Users\nicol\Desktop\repos-despii\forkify\dist\logo.833dfef5.png133555200186382093 0
+66C:\Users\nicol\Desktop\repos-despii\forkify\dist\logo.9272a069.png133555195791745054 0
