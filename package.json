@@ -2,7 +2,7 @@
   "name": "forkify",
   "version": "1.0.1",
   "description": "recipe application",
-  "main": "index.js",
+  "homepage": "https://despinanasgodineanu.github.io/forkify",
   "dependencies": {
     "abortcontroller-polyfill": "^1.7.5",
     "ansi-regex": "^5.0.1",
@@ -108,11 +108,14 @@
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.11.0",
+    "gh-pages": "^6.1.1",
     "parcel": "^2.11.0"
   },
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --no-scope-hoist --public-url ./",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "author": "Despina Nasgodineanu",
   "license": "ISC"
