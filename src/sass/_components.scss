@@ -35,6 +35,19 @@
     fill: currentColor;
   }
 }
+@media only screen and (max-width: $bp-smallest){
+  .btn  {
+    padding: 0.7rem 1rem;
+    font-size: 0.9rem;
+    font-weight: 300;
+    
+    svg {
+      height: 1.25rem;
+      width: 1.25rem;
+      fill: currentColor;
+    }
+  }
+}
 
 .btn--small {
   &,

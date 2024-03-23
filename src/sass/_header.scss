@@ -1,3 +1,5 @@
+$bp-smallest: 33.75em;// 540px
+
 .header {
   grid-area: head;
   background-color: $color-grey-light-1;
@@ -10,8 +12,19 @@
     height: 4.6rem;
     display: block;
   }
+  
 }
+@media only screen and (max-width: $bp-smallest){
+  .header {
+    display: block;
+    }
+  .header__logo{
+   position: relative;
+   margin-top: 5px;
+   margin-bottom: 5px;
 
+  }
+}
 .search {
   background-color: #fff;
   border-radius: 10rem;
@@ -54,8 +67,15 @@
     font-weight: 600;
     font-family: inherit;
   }
+  
 }
-
+@media only screen and (max-width: $bp-smallest){
+  .search__btn {
+    position: absolute;
+    right: 0;
+    font-weight: 300;
+  }
+}
 .nav {
   align-self: stretch;
   margin-right: 2.5rem;
@@ -101,6 +121,12 @@
     &:hover {
       background-color: $color-grey-light-2;
     }
+  }
+}
+@media only screen and (max-width: $bp-smallest){
+  .nav__list {
+    margin: 10px 0px;
+    justify-content: center;
   }
 }
 

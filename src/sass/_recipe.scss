@@ -1,3 +1,5 @@
+$bp-smallest: 33.75em; // 540px
+
 .recipe {
   background-color: $color-grey-light-1;
 
@@ -136,6 +138,11 @@
     grid-template-columns: 1fr 1fr;
     gap: 2.5rem 3rem;
     list-style: none;
+  }
+  @media only screen and (max-width: $bp-smallest){
+    &__ingredient-list  {
+      display: block;
+    }
   }
 
   &__ingredient {

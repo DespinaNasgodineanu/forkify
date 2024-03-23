@@ -51,6 +51,12 @@ body {
   }
 }
 
+@media only screen and (width <= 33.75em) {
+  .container {
+    display: block;
+  }
+}
+
 .btn--small, .btn--small:link, .btn--small:visited, .btn {
   text-transform: uppercase;
   color: #fff;
@@ -85,6 +91,20 @@ body {
   fill: currentColor;
   width: 2.25rem;
   height: 2.25rem;
+}
+
+@media only screen and (width <= 33.75em) {
+  .btn {
+    padding: .7rem 1rem;
+    font-size: .9rem;
+    font-weight: 300;
+  }
+
+  .btn svg {
+    fill: currentColor;
+    width: 1.25rem;
+    height: 1.25rem;
+  }
 }
 
 .btn--small, .btn--small:link, .btn--small:visited {
@@ -264,6 +284,18 @@ body {
   display: block;
 }
 
+@media only screen and (width <= 33.75em) {
+  .header {
+    display: block;
+  }
+
+  .header__logo {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    position: relative;
+  }
+}
+
 .search {
   background-color: #fff;
   border-radius: 10rem;
@@ -308,6 +340,14 @@ body {
 .search__btn {
   font-family: inherit;
   font-weight: 600;
+}
+
+@media only screen and (width <= 33.75em) {
+  .search__btn {
+    font-weight: 300;
+    position: absolute;
+    right: 0;
+  }
 }
 
 .nav {
@@ -355,6 +395,13 @@ body {
 
 .nav__btn:hover {
   background-color: #f2efee;
+}
+
+@media only screen and (width <= 33.75em) {
+  .nav__list {
+    justify-content: center;
+    margin: 10px 0;
+  }
 }
 
 .bookmarks {
@@ -650,6 +697,12 @@ body {
   gap: 2.5rem 3rem;
   list-style: none;
   display: grid;
+}
+
+@media only screen and (width <= 33.75em) {
+  .recipe__ingredient-list {
+    display: block;
+  }
 }
 
 .recipe__ingredient {
