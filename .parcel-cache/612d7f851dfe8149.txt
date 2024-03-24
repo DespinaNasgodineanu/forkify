@@ -1,4 +1,4 @@
-10192
+10300
 81C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\packager-raw133547236027148933 1
 80C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\srcset\package.json133535075054968898 0
 95C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\array\group-to-map.js133535967402313507 0
@@ -10,13 +10,10 @@
 93C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\features\symbol\match.js133535967442899217 0
 103C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\make-dir\node_modules\semver\bin\semver.js133556763825985194 0
 82C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\msgpackr\package.json133535075103659536 0
-58C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\.gitignore133556718350876082 0
+58C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\.gitignore133557627133276220 0
 79C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\p-locate\readme.md133556763829660739 0
 89C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\css-select\lib\sort.d.ts.map133535075122812103 0
 76C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\forkify-flowchart-part-3.png132886955210000000 0
-71C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\nullthrows133547236760750213 1
-67C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\braces133547236179013161 1
-91C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\src\_ts_param.mjs133535075174793436 0
 79C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\msgpackr\pack.d.ts133535075122325442 0
 79C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\domutils\readme.md133535075093566415 0
 89C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\cache\lib\FSCache.js133535075061058652 0
@@ -32,7 +29,7 @@
 84C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\csso\lib\replace\atrule133547236649011818 1
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\RU.js133535075202066597 0
 74C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\async\each.js133556763836645668 0
-52C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist133556762858213702 1
+52C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist133557628062438929 1
 114C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\internals\structured-clone-proper-transfer.js133535967511868916 0
 111C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\posthtml\node_modules\posthtml-parser\package.json133535075065734683 0
 95C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\mdn-data\css\selectors.schema.json133535075098333420 0
@@ -93,7 +90,7 @@
 98C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\modules\es.string.trim-end.js133535967362071829 0
 68C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\globals133547236699492893 1
 107C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\actual\typed-array\to-locale-string.js133535967522828953 0
-60C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules133556763840827146 1
+60C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules133556764014707711 1
 113C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Block.cjs133535075080597006 0
 105C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\gh-pages\node_modules\commander\package.json133556763833503331 0
 85C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\data-view133547236552480723 1
@@ -189,7 +186,7 @@
 88C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\domutils\lib\stringify.d.ts133535075099678195 0
 85C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\proposals\url.js133535967544603316 0
 89C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\semver\ranges\min-version.js133535075101988487 0
-69C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\src\sass\_header.scss133556709846658337 0
+69C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\src\sass\_header.scss133557626147558988 0
 117C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\runtime-js\src\helpers\browser\preload-loader.js133535075111181200 0
 66C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\async133556763840162858 1
 68C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel133547236095110317 1
@@ -339,6 +336,13 @@
 65C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.bin133556763840649223 1
 85C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\graceful-fs\package.json133556763828874503 0
 116C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\020-usage.md133535075123176464 0
+74C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\utility-types133547236813772367 1
+115C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\csso\node_modules\css-tree\lib\lexer\generic-urange.js133535075153098190 0
+90C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\posthtml-parser\dist\index.js133535075055768489 0
+85C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\nth-check\lib\parse.d.ts133535075101439013 0
+94C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\actual\object\group-by.js133535967401054964 0
+100C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\string\virtual\substr.js133535967513476596 0
+67C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache133556764014707711 1
 106C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\proposals\array-grouping-stage-3-2.js133535967279125007 0
 89C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\nth-check\lib\parse.d.ts.map133535075093556434 0
 101C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\string\virtual\pad-end.js133535967458536343 0
@@ -413,6 +417,9 @@
 76C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\brace-expansion133556763826476597 1
 106C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\modules\esnext.array.filter-reject.js133535967366951023 0
 97C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\symbol\description.js133535967331831583 0
+71C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\nullthrows133547236760750213 1
+67C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\braces133547236179013161 1
+91C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\src\_ts_param.mjs133535075174793436 0
 99C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\modules\es.typed-array.join.js133535967364147650 0
 88C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\modules\web.atob.js133535967546795582 0
 88C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\to-regex-range\package.json133535075047317240 0
@@ -676,6 +683,7 @@
 96C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\svgo\plugins\cleanupListOfValues.js133535075115750940 0
 98C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\dom-exception\index.js133535967416396335 0
 91C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\email-addresses\test\tests.xml133556763833657039 0
+146C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\favicon.8b2f57bf.png133556764056579008 0
 69C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\has-flag133547236700082540 1
 90C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\type-fest\source\mutable.d.ts133535075099039886 0
 88C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\sass\types\value\mixin.d.ts133535094219093765 0
@@ -705,6 +713,7 @@
 80C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\date133547236553300255 1
 79C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\svgo\lib\parser.js133535075095064147 0
 88C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\string\virtual133547236456329798 1
+155C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs\refs\remotes\origin133556764097683234 1
 87C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\svgo\plugins\cleanupIds.js133535075115216556 0
 110C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-svgo\node_modules\.bin\svgo.ps1133535075211716347 0
 109C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\proposals\efficient-64-bit-arithmetic.js133535967334543034 0
@@ -1037,12 +1046,14 @@
 65C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\sass133547236778039402 1
 98C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\cjs\_to_property_key.cjs133535075129775994 0
 67C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\semver133547236785668820 1
+142C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\description133556764015332864 0
 106C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\css-select\node_modules\domutils\lib\feeds.js133535075059597108 0
 82C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\htmlnano\CHANGELOG.md133535075128447242 0
 96C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\actual\iterator\to-async.js133535967519129043 0
 89C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\math\asinh.js133535967280653099 0
 86C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\css-tree\lib\syntax\scope133547236637267207 1
 89C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\array\filter.js133535967385179938 0
+141C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\28133556764058320718 1
 95C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\type-fest\ts41\delimiter-case.d.ts133535075084776418 0
 95C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\namer-default\package.json133535075061080517 0
 108C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts133535075131948287 0
@@ -1072,6 +1083,7 @@
 93C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\features\regexp\flags.js133535967389545933 0
 67C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\stable133547236792241002 1
 104C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\modules\es.array.find-last-index.js133535967351837347 0
+144C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\icons.e417a8d9.svg133556764056579008 0
 77C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\stable\stable.js133535075058728801 0
 135C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\atrule\page.js133535075136095867 0
 96C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\proposals\array-flat-map.js133535967278530877 0
@@ -1156,10 +1168,6 @@
 83C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\update-browserslist-db133547236813087542 1
 97C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-image\package.json133535075055924733 0
 78C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\type-fest\license133535075047421662 0
-74C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\utility-types133547236813772367 1
-115C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\csso\node_modules\css-tree\lib\lexer\generic-urange.js133535075153098190 0
-90C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\posthtml-parser\dist\index.js133535075055768489 0
-85C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\nth-check\lib\parse.d.ts133535075101439013 0
 75C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\weak-lru-cache133547236816101023 1
 87C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\utils\src\index.js133535075118795004 0
 67C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\wrappy133556763826308344 1
@@ -1322,6 +1330,7 @@
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\runtime-js\package.json133535075116113949 0
 90C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\update-browserslist-db\cli.js133535075054756674 0
 80C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\fs-extra\lib\mkdirs133556763835543463 1
+144C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.22417f31.css133556764056579008 0
 83C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\pinkie-promise\license133556763826869702 0
 96C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\object\iterate-keys.js133535967429150220 0
 93C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\make-dir\node_modules\semver\bin133556763825803560 1
@@ -1333,6 +1342,7 @@
 94C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\update-browserslist-db\index.d.ts133535075075519286 0
 93C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\update-browserslist-db\README.md133535075072893570 0
 104C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\modules\esnext.iterator.to-array.js133535967370193805 0
+159C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\refs\remotes\origin\gh-pages133556764097683234 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\update-browserslist-db\index.js133535075059068473 0
 97C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\svgo\plugins\removeElementsByAttr.js133535075127193576 0
 106C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\features\arrow-functions.js133535075108672961 0
@@ -1373,6 +1383,7 @@
 93C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\regenerator-runtime\package.json133535075060044760 0
 87C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\source-map\source-map.d.ts133535075091722451 0
 99C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\sass\types\logger\source_location.d.ts133535094219420912 0
+180C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\28\fc41938f0f1872c524c6d43869f321ac825c3e133556764058320718 0
 76C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\p-try\readme.md133556763829000386 0
 82C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\htmlnano\package.json133535075118443208 0
 117C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json133535075155896836 0
@@ -1473,6 +1484,7 @@
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\GY.js133535075175300597 0
 116C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\features\mdn-text-decoration-style.js133535075196433735 0
 89C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\node-addon-api\noexcept.gypi133535075067838851 0
+180C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\9e\1de05f1a67e1af6f89289615c252426dd911f9133556764057539340 0
 95C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\entities\lib\decode_codepoint.d.ts133535075097605300 0
 100C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\modules\es.reflect.construct.js133535967358496269 0
 78C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\tslib\SECURITY.md133535075078993795 0
@@ -1662,8 +1674,8 @@
 118C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\dom-serializer\node_modules\entities\lib\maps\legacy.json133535075078060252 0
 109C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\src\_class_apply_descriptor_set.mjs133535075171032560 0
 114C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\l10n133547235950172424 1
-92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\internals\math-trunc.js133535967443542145 0
 115C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\css-select\node_modules\domutils\lib\esm\legacy.js.map133535075107448388 0
+92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\internals\math-trunc.js133535967443542145 0
 87C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\symbol\match.js133535967442757529 0
 98C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133535075122812103 0
 110C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\csso\node_modules\css-tree\lib\tokenizer\utils.js133535075161784770 0
@@ -1697,9 +1709,9 @@
 116C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\modules\esnext.reflect.get-own-metadata-keys.js133535967372844577 0
 107C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\modules\es.reflect.set-prototype-of.js133535967360008745 0
 91C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\svgo\plugins\removeMetadata.js133535075128447242 0
-107C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js133535075128708909 0
 109C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts.map133535075103933559 0
 81C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\lmdb\src\lmdb-js.cpp133535075134899038 0
+107C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js133535075128708909 0
 84C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\svgo\lib\stringifier.js133535075096957866 0
 94C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\actual\instance\values.js133535967545073346 0
 97C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\svgo\plugins\removeOffCanvasPaths.js133535075129282931 0
@@ -2135,6 +2147,7 @@
 87C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\actual\array\of.js133535967450616921 0
 107C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\csso\node_modules\css-tree\lib\syntax\function133547236670819790 1
 80C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\nth-check\README.md133535075096425282 0
+152C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\pre-push.sample133556764015488917 0
 87C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\msgpackr\dist\node.cjs.map133535075115931514 0
 80C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\readdirp\index.d.ts133535094215345284 0
 100C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\features\symbol\to-primitive.js133535967523920090 0
@@ -2152,6 +2165,7 @@
 135C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\supports.js133535075140284014 0
 85C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\locate-path\package.json133556763824819894 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\instance\keys.js133535967434931903 0
+138C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects133556764062552345 1
 95C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\htmlnano\lib\modules\minifyCss.mjs133535075134108288 0
 108C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\esm\_class_private_field_update.js133535075139952915 0
 83C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\react-refresh\babel.js133535075050402404 0
@@ -2364,6 +2378,7 @@
 86C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\parcel\src\.eslintrc.json133535075073547414 0
 95C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\internals\string-repeat.js133535967510983137 0
 78C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\parcel\src\bin.js133535075057198724 0
+148C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.40faa0b3.css.map133556764056579008 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\clear-immediate.js133535967286484997 0
 117C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\css-select\node_modules\domutils\lib\esm\querying.js.map133535075114064252 0
 78C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\parcel\lib\bin.js133535075051907870 0
@@ -2376,6 +2391,7 @@
 78C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\p-locate\index.js133556763826869702 0
 91C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\core\lib\serializer.js133535075146814120 0
 85C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\domutils\lib\legacy.d.ts133535075097423284 0
+76C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages133556764015176633 1
 112C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\object\get-own-property-descriptors.js133535967398883027 0
 100C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\core\lib\dumpGraphToGraphViz.js133535075126625485 0
 123C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\css-select\node_modules\entities\lib\esm\decode_codepoint.d.ts133535075122436968 0
@@ -2989,6 +3005,7 @@
 107C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\css-select\node_modules\domutils\lib\legacy.js133535075079487275 0
 110C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\features\object\get-own-property-names.js133535967399022944 0
 94C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\instance\trim-right.js133535967533798535 0
+141C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\40133556764061914220 1
 105C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\features\array\virtual\filter-out.js133535967380676761 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\VA.js133535075208673770 0
 101C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb133547236731339454 1
@@ -3715,10 +3732,12 @@
 126C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\index.js133535075109771207 0
 111C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\modules\esnext.array.is-template-object.js133535967367300829 0
 89C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.bin\download-lmdb-prebuilds133535075211814793 0
+160C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\pre-merge-commit.sample133556764015332864 0
 76C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\find-up\license133556763828489974 0
 118C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\CHANGELOG.md133535075120926198 0
 114C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\features\upgradeinsecurerequests.js133535075208320416 0
 83C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\find-cache-dir\license133556763824819894 0
+164C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs\refs\remotes\origin\gh-pages133556764097839478 0
 88C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\find-cache-dir\package.json133556763826654518 0
 129C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\WhiteSpace.js133535075118954409 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\transformer-postcss\src133547236077430737 1
@@ -3764,6 +3783,7 @@
 96C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\csso\node_modules\mdn-data\index.js133535075061888593 0
 107C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\css-select\node_modules\entities\lib\escape.js133535075091931278 0
 88C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\domutils\lib\feeds.d.ts.map133535075081250894 0
+147C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.6ca47eab.js.map133556764056735255 0
 98C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\css-tree\lib\parser\parse-selector.js133535075159784220 0
 105C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@babel\highlight\node_modules\supports-color133547235844389855 1
 94C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\internals\array-reduce.js133535967279547471 0
@@ -5242,6 +5262,7 @@
 83C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\btoa.js133535967285685451 0
 111C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@babel\highlight\node_modules\color-name\README.md133535075055226390 0
 81C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\error133547236554539553 1
+144C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.f7626f62.css133556764056579008 0
 85C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\escape.js133535967366535011 0
 118C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\index.js133535075057218760 0
 84C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\function133547236554919323 1
@@ -5262,6 +5283,7 @@
 90C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\parse-float.js133535967462511319 0
 101C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\features\use-strict.js133535075208486515 0
 88C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\parse-int.js133535967463074004 0
+180C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\3a\6a9742271eefcca1c5d35923fba2cc82bceb44133556764058320718 0
 97C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\config-default\test\.babelrc133535075048296852 0
 94C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\queue-microtask.js133535967469826082 0
 97C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\modules\esnext.math.isubh.js133535967371696494 0
@@ -5383,6 +5405,7 @@
 103C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\string\virtual\ends-with.js133535967340372284 0
 118C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\features\css-font-rendering-controls.js133535075152115250 0
 112C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\features\font-family-system-ui.js133535075172842814 0
+141C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\9e133556764057539340 1
 90C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\features\math\sign.js133535967494041802 0
 85C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\math\index.js133535967410412635 0
 99C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\string\virtual\fixed.js133535967389261714 0
@@ -5405,8 +5428,6 @@
 100C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\string\virtual\repeat.js133535967483981455 0
 99C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\string\virtual\small.js133535967497090749 0
 105C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\string\virtual\starts-with.js133535967507720295 0
-94C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\actual\object\group-by.js133535967401054964 0
-100C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\string\virtual\substr.js133535967513476596 0
 91C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\node-resolver-core\lib133547235909929330 1
 108C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\string\virtual\to-well-formed.js133535967531457574 0
 102C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\string\virtual\trim-end.js133535967532639264 0
@@ -5536,6 +5557,7 @@
 98C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\object\set-prototype-of.js133535967491598068 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\instance\push.js133535967469395438 0
 99C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\instance\replace-all.js133535967485079350 0
+194C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\pack\pack-4e6a78009812cace176149ab5b393bd4f7d9c9a7.pack133556764057539340 0
 93C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\instance\slice.js133535967496538627 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\instance\some.js133535967501612968 0
 86C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\set\union.js133535967541621644 0
@@ -5630,6 +5652,7 @@
 100C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\array\virtual\reverse.js133535967487228167 0
 98C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\array\virtual\slice.js133535967496458622 0
 104C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\array\virtual\to-reversed.js133535967525098022 0
+158C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\pre-applypatch.sample133556764015332864 0
 102C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\array\virtual\to-sorted.js133535967526215796 0
 103C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\stable\array\virtual\to-spliced.js133535967526951220 0
 96C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\modules\esnext.set.union.js133535967374046265 0
@@ -6163,6 +6186,7 @@
 95C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\internals\entry-virtual.js133535967348652495 0
 101C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\internals\error-stack-install.js133535967350004998 0
 105C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\internals\error-stack-installable.js133535967350034979 0
+136C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.html133556764056579008 0
 87C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\internals\fails.js133535967379371537 0
 100C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\internals\flatten-into-array.js133535967391160096 0
 124C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeXMLNS.js133535075125381901 0
@@ -6299,6 +6323,7 @@
 99C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\internals\set-to-string-tag.js133535967492762521 0
 91C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\internals\set-union.js133535967492922421 0
 101C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\features\instance\to-reversed.js133535967524822351 0
+147C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.3601363b.js.map133556764056735255 0
 94C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\internals\shared-store.js133535967493881878 0
 95C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\features\wasm.js133535075209187972 0
 88C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\internals\shared.js133535967493911863 0
@@ -6519,6 +6544,7 @@
 79C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\array-uniq\license133556763827135993 0
 90C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\string\search.js133535967489019499 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\RE.js133535075200629177 0
+141C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\FETCH_HEAD133556764048746725 0
 89C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\string\small.js133535967496878921 0
 89C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\string\split.js133535967506240681 0
 95C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\string\starts-with.js133535967507440158 0
@@ -6670,6 +6696,7 @@
 93C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\math\seeded-prng.js133535967489275907 0
 86C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\cjs\_set.cjs133535075127103635 0
 87C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\array\find.js133535967388515688 0
+141C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\8a133556764058008047 1
 89C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\math\signbit.js133535967494761707 0
 86C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\math\sinh.js133535967495011565 0
 99C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\features\passkeys.js133535075198804401 0
@@ -6682,7 +6709,7 @@
 88C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\map\emplace.js133535967334614352 0
 86C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\map\every.js133535967378297926 0
 87C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\map\filter.js133535967385409809 0
-71C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.f7626f62.css133556761515081666 0
+71C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.f7626f62.css133557626111326964 0
 89C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\map\includes.js133535967406657707 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\LI.js133535075195426663 0
 87C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\map\key-of.js133535967433984742 0
@@ -6868,6 +6895,7 @@
 90C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\array\entries.js133535967347387786 0
 88C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\array\every.js133535967378157896 0
 87C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\array\fill.js133535967380053436 0
+71C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.ab4746a2.css133557628061943952 0
 96C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\array\filter-reject.js133535967381221215 0
 95C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\logger\test\Logger.test.js133535075062250759 0
 93C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\full\array\find-index.js133535967386239339 0
@@ -7169,10 +7197,12 @@
 90C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\instance\repeat.js133535967483417303 0
 102C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\actual\typed-array\uint8-array.js133535967539635746 0
 100C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\actual\instance\group-to-map.js133535967402173639 0
+180C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\8a\da2fa2510b4fe25488a2222eb418df8436961f133556764058008047 0
 89C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\features\set\join.js133535967433278686 0
 88C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\features\set\map.js133535967441041556 0
 91C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\features\set\reduce.js133535967478956673 0
 94C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\features\date\set-year.js133535967493172286 0
+143C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\logo.726d37a8.png133556764056735255 0
 124C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json133535075097226504 0
 99C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\dist\unpacker\features.js133535075170825060 0
 105C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\features\set\symmetric-difference.js133535967515800430 0
@@ -7273,6 +7303,7 @@
 90C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\features\math\tanh.js133535967516588623 0
 91C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\features\math\trunc.js133535967538574799 0
 91C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\features\math\umulh.js133535967540101893 0
+137C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\config133556764059726878 0
 135C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-arm64.node133535075107377529 0
 94C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\async\internal\promiseCallback.js133556763838645453 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\features\map\emplace.js133535967334614352 0
@@ -7482,6 +7513,7 @@
 80C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\index.js133535967410067452 0
 80C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\instance133547236337996049 1
 75C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\map133547236338651044 1
+154C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\pre-rebase.sample133556764015488917 0
 79C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\promise133547236345099656 1
 113C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\_\_class_private_field_get\package.json133535075158772143 0
 79C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\reflect133547236346480576 1
@@ -7606,7 +7638,7 @@
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\reflect\construct.js133535967289824275 0
 98C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\reflect\define-property.js133535967323879913 0
 98C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\reflect\delete-property.js133535967328177896 0
-70C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.e37f48ea.js133556761515342757 0
+70C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.e37f48ea.js133557621629194681 0
 110C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\reflect\get-own-property-descriptor.js133535967398393132 0
 86C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\reflect\has.js133535967403842712 0
 101C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\reflect\prevent-extensions.js133535967464071761 0
@@ -7670,6 +7702,7 @@
 85C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\math\hypot.js133535967404400501 0
 84C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\math\imul.js133535967405173376 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\CA.js133535075132281507 0
+144C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\icons.c14567a0.svg133556764056579008 0
 85C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\math\log10.js133535967437713441 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\ID.js133535075177291807 0
 84C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\es\math\log2.js133535967438203155 0
@@ -7951,6 +7984,7 @@
 108C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\actual\object\get-own-property-names.js133535967398963003 0
 125C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\index.js133535075127272220 0
 91C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\actual\object\index.js133535967408650524 0
+142C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\packed-refs133556764034649040 0
 109C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\features\insertadjacenthtml.js133535075185891611 0
 99C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\actual\object\is-extensible.js133535967421596566 0
 95C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\core-js\actual\object\is-sealed.js133535967425058312 0
@@ -8261,6 +8295,7 @@
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\MW.js133535075197386475 0
 98C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\_\_decorate\package.json133535075161666907 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\MY.js133535075197462465 0
+135C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\refs133556764097683234 1
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\MZ.js133535075197492459 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\NE.js133535075197633520 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\NG.js133535075197784007 0
@@ -8276,6 +8311,7 @@
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\PW.js133535075200181458 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\PY.js133535075200317937 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\RW.js133535075202470212 0
+144C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\icons.21bad73c.svg133556764056579008 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\SC.js133535075202651767 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\SD.js133535075203458577 0
 92C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\regions\SH.js133535075203957095 0
@@ -8439,6 +8475,7 @@
 115C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\runtime-browser-hmr\lib\loaders\hmr-runtime.js133535075055237238 0
 103C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\features\documenthead.js133535075167270460 0
 112C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\features\dom-manip-convenience.js133535075167297715 0
+140C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs\refs133556764097683234 1
 100C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\features\dom-range.js133535075167297715 0
 107C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\caniuse-lite\data\features\domcontentloaded.js133535075167297715 0
 106C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\src\_interop_require_default.mjs133535075173169338 0
@@ -8838,14 +8875,14 @@
 113C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\src\_class_private_field_loose_base.mjs133535075171493553 0
 118C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\src\_class_static_private_field_spec_set.mjs133535075172053319 0
 91C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\src\_defaults.mjs133535075172710077 0
-63C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.html133556762857369065 0
+63C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.html133557628061923947 0
 111C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\src\_define_enumerable_properties.mjs133535075172740053 0
 90C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\src\_dispose.mjs133535075172842814 0
 99C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\src\_get_prototype_of.mjs133535075172971104 0
 91C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\src\_inherits.mjs133535075172971104 0
 109C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\src\_initializer_warning_helper.mjs133535075173158682 0
-114C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\cjs\_class_private_field_destructure.cjs133535075098146300 0
 81C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\packager-css133547236022329938 1
+114C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\cjs\_class_private_field_destructure.cjs133535075098146300 0
 107C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\src\_interop_require_wildcard.mjs133535075173300682 0
 100C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\src\_iterable_to_array.mjs133535075173489811 0
 112C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@swc\helpers\src\_iterable_to_array_limit_loose.mjs133535075173300682 0
@@ -9097,7 +9134,7 @@
 90C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\utils\src\Deferred.js133535075093755965 0
 101C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\utils\src\dependency-location.js133535075094596528 0
 93C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\utils\src\escape-html.js133535075095601961 0
-71C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\icons.21bad73c.svg133556761515342757 0
+71C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\icons.21bad73c.svg133557621628381281 0
 102C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\utils\src\generateBuildMetrics.js133535075096609817 0
 96C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\utils\src\getCertificate.js133535075098196268 0
 93C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\utils\src\getExisting.js133535075099019905 0
@@ -9154,6 +9191,7 @@
 106C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\transformer-postcss\src\loadConfig.js133535075068254678 0
 106C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\transformer-postcss\lib\loadConfig.js133535075061462482 0
 114C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\transformer-postcss\lib\PostCSSTransformer.js133535075077760994 0
+151C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.runtime.56109c61.js133556764056579008 0
 89C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\transformer-json\lib133547236075371900 1
 98C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\transformer-json\package.json133535075061080517 0
 89C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\transformer-json\src133547236075771691 1
@@ -9421,6 +9459,7 @@
 128C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertPathData.js133535075096267975 0
 132C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertStyleToAttrs.js133535075098096333 0
 125C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\inlineStyles.js133535075104643860 0
+180C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\40\a9b7a92a1f2979da85f2e785f084be52d29ef3133556764061914220 0
 123C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\mergePaths.js133535075105940462 0
 125C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\minifyStyles.js133535075107194106 0
 134C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133535075108909671 0
@@ -9826,6 +9865,7 @@
 132C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\compile.d.ts.map133535075092797797 0
 128C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\general.d.ts133535075105940462 0
 126C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\general.js133535075074233803 0
+160C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\push-to-checkout.sample133556764015488917 0
 134C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\procedure.d.ts.map133535075097605300 0
 128C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\procedure.js133535075079752785 0
 132C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors133547235918107261 1
@@ -9843,6 +9883,7 @@
 90C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-css\LICENSE133535075047758757 0
 86C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-css\src133547235910962604 1
 102C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\optimizer-css\lib\CSSOptimizer.js133535075051745758 0
+141C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\refs\heads133556764062084781 1
 95C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\node-resolver-core\LICENSE133535075047521605 0
 111C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\node-resolver-core\lib\builtins.browser.js133535075056061393 0
 100C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\node-resolver-core\lib\index.js133535075065518625 0
@@ -9882,6 +9923,7 @@
 84C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\fs\src\index.js133535075075399345 0
 87C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\fs\src\MemoryFS.js133535075077561139 0
 85C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\fs\src\NodeFS.js133535075080407121 0
+143C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.e37f48ea.js133556764056735255 0
 88C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\fs\src\OverlayFS.js133535075083120914 0
 84C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\fs\src\types.js133535075085926291 0
 90C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\fs\lib\browser.js.map133535075091436401 0
@@ -9940,8 +9982,10 @@
 139C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines133547235893692380 1
 151C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\package.json133535075157965449 0
 148C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\index.js133535075130937741 0
+136C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\index133556764061914220 0
 103C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\core\test\fixtures\parcel\other.js133535075136108723 0
 109C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\core\test\fixtures\main-mjs\package.json133535075157753248 0
+147C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.b212351f.js.map133556764056735255 0
 112C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\core\test\fixtures\main-global\package.json133535075157633309 0
 121C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json133535075157486675 0
 91C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@lezer\common\dist\index.d.cts133535075063248498 0
@@ -10148,6 +10192,69 @@
 110C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@babel\code-frame\node_modules\chalk\package.json133535075047984651 0
 103C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@babel\code-frame\node_modules\chalk\types133547235831481274 1
 116C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\@babel\code-frame\node_modules\ansi-styles\package.json133535075047984651 0
+125C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git133556764056579008 1
+130C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git133556764062084781 1
+146C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\favicon.42656662.png133556764056579008 0
+146C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\favicon.9a1bb8f5.png133556764056579008 0
+144C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\icons.dfd7a6db.svg133556764056579008 0
+144C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.055b92ff.css133556764056579008 0
+148C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.055b92ff.css.map133556764056579008 0
+148C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.22417f31.css.map133556764056579008 0
+143C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.3601363b.js133556764056579008 0
+144C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.40faa0b3.css133556764056579008 0
+144C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.628a78b8.css133556764056579008 0
+148C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.628a78b8.css.map133556764056579008 0
+143C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.6ca47eab.js133556764056579008 0
+143C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.b212351f.js133556764056735255 0
+147C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.e37f48ea.js.map133556764056735255 0
+148C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.f7626f62.css.map133556764056579008 0
+151C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.runtime.2872b594.js133556764056579008 0
+155C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.runtime.2872b594.js.map133556764056579008 0
+155C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.runtime.56109c61.js.map133556764056579008 0
+151C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.runtime.da0bc508.js133556764056579008 0
+155C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\index.runtime.da0bc508.js.map133556764056579008 0
+143C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\logo.833dfef5.png133556764056579008 0
+143C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\logo.9272a069.png133556764056735255 0
+145C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\COMMIT_EDITMSG133556764061914220 0
+135C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\HEAD133556764053610469 0
+136C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks133556764015488917 1
+135C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\info133556764015488917 1
+135C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs133556764034805297 1
+140C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\ORIG_HEAD133556764055173043 0
+138C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\shallow133556764030637622 0
+143C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\refs\remotes133556764097683234 1
+140C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\refs\tags133556764015645162 1
+150C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\refs\remotes\origin133556764097839478 1
+150C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\refs\heads\gh-pages133556764062084781 0
+141C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\05133556764058320718 1
+141C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\3a133556764058320718 1
+141C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\62133556764062076851 1
+141C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\68133556764058476772 1
+141C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\92133556764058164479 1
+141C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\d4133556764057695561 1
+143C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\info133556764015801396 1
+143C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\pack133556764034961522 1
+193C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\pack\pack-4e6a78009812cace176149ab5b393bd4f7d9c9a7.idx133556764033711642 0
+193C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\pack\pack-4e6a78009812cace176149ab5b393bd4f7d9c9a7.rev133556764033711642 0
+180C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\d4\d092aa71dd64de39e9ca7e807d4c98a57c84f9133556764057539340 0
+180C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\92\478919fc35d63977eba35ef81a7c03b6b4e485133556764058008047 0
+180C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\68\4dfaf11e72fd1903808b46fb4662ab63b1ac9c133556764058476772 0
+180C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\62\0e8e73b738387e53f521e2a1f2664071244cb0133556764061914220 0
+180C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\objects\05\40911557ee6d5b20676bfb35e70ccf6ff0ceea133556764058320718 0
+140C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs\HEAD133556764062084781 0
+146C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs\refs\heads133556764034805297 1
+148C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs\refs\remotes133556764097683234 1
+155C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\logs\refs\heads\gh-pages133556764062084781 0
+143C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\info\exclude133556764015488917 0
+158C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\applypatch-msg.sample133556764015332864 0
+154C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\commit-msg.sample133556764015332864 0
+162C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\fsmonitor-watchman.sample133556764015332864 0
+155C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\post-update.sample133556764015332864 0
+154C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\pre-commit.sample133556764015332864 0
+155C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\pre-receive.sample133556764015488917 0
+162C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\prepare-commit-msg.sample133556764015488917 0
+162C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\sendemail-validate.sample133556764015488917 0
+150C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.cache\gh-pages\https!github.com!DespinaNasgodineanu!forkify.git\.git\hooks\update.sample133556764015488917 0
 78C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.bin\browserslist133535075211342885 0
 82C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.bin\browserslist.cmd133535075211342885 0
 77C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.bin\detect-libc133535075211804807 0
@@ -10173,21 +10280,22 @@
 76C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.bin\semver.cmd133535075211854771 0
 74C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\node_modules\.bin\svgo.cmd133535075211854771 0
 73C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\favicon.42656662.png133556762849685153 0
-73C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\favicon.8b2f57bf.png133556761515081666 0
+73C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\favicon.8b2f57bf.png133557621627810338 0
 73C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\favicon.9a1bb8f5.png133556714138650784 0
-71C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\icons.dfd7a6db.svg133556761515342757 0
+71C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\icons.dfd7a6db.svg133557621628468464 0
 75C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.055b92ff.css.map133556762858021978 0
 71C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.40faa0b3.css133556714138926736 0
 71C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.628a78b8.css133556714139069615 0
 70C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.6ca47eab.js133556714139069615 0
 74C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.6ca47eab.js.map133556714139232853 0
+75C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.ab4746a2.css.map133557628062388970 0
 70C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.b212351f.js133556762857369065 0
 74C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.b212351f.js.map133556762858189683 0
-74C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.e37f48ea.js.map133556761515605197 0
-75C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.f7626f62.css.map133556761515605197 0
+74C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.e37f48ea.js.map133557621629307419 0
+75C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.f7626f62.css.map133557626111406929 0
 78C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.runtime.2872b594.js133556762857369065 0
 82C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.runtime.2872b594.js.map133556762857866740 0
 78C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.runtime.56109c61.js133556714139720502 0
 82C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.runtime.56109c61.js.map133556714139730499 0
 82C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\index.runtime.da0bc508.js.map133556714139780477 0
-70C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\logo.726d37a8.png133556761515081666 0
+70C:\Users\Despi\Desktop\Aplicatii GitHub\forkify\dist\logo.726d37a8.png133557621627810338 0
