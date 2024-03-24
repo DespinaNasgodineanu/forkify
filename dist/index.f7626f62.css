@@ -348,6 +348,10 @@ body {
     position: absolute;
     right: 0;
   }
+
+  .search {
+    border: .5px solid gray;
+  }
 }
 
 .nav {
