@@ -293,6 +293,7 @@ body {
     margin-top: 5px;
     margin-bottom: 5px;
     position: relative;
+    left: 25%;
   }
 }
 
@@ -575,6 +576,16 @@ body {
 
 .copyright .twitter-link:link, .copyright .twitter-link:visited {
   color: #918581;
+}
+
+@media only screen and (width <= 33.75em) {
+  .copyright {
+    display: none;
+  }
+
+  .search-results {
+    align-items: center;
+  }
 }
 
 .recipe {
