@@ -343,18 +343,6 @@ body {
   font-weight: 600;
 }
 
-@media only screen and (width <= 33.75em) {
-  .search__btn {
-    font-weight: 300;
-    position: absolute;
-    right: 0;
-  }
-
-  .search {
-    border: .5px solid gray;
-  }
-}
-
 .nav {
   align-self: stretch;
   margin-right: 2.5rem;
@@ -442,6 +430,28 @@ body {
 .bookmarks:hover, .nav__btn--bookmarks:hover + .bookmarks {
   visibility: visible;
   opacity: 1;
+}
+
+@media only screen and (width <= 41em) {
+  .bookmarks {
+    right: 10.5rem;
+  }
+}
+
+@media only screen and (width <= 33.75em) {
+  .search__btn {
+    font-weight: 300;
+    position: absolute;
+    right: 0;
+  }
+
+  .search {
+    border: .5px solid gray;
+  }
+
+  .bookmarks {
+    right: -10.5rem;
+  }
 }
 
 .preview__link:link, .preview__link:visited {
@@ -714,9 +724,28 @@ body {
   display: grid;
 }
 
-@media only screen and (width <= 33.75em) {
+@media only screen and (width <= 41em) {
+  .recipe__ingredients {
+    justify-content: center;
+    padding: 2.5rem 4rem;
+  }
+
   .recipe__ingredient-list {
-    display: block;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    display: flex;
+  }
+
+  .recipe__details {
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    padding: 4rem 4rem 1.5rem;
+  }
+
+  .recipe__user-generated {
+    margin-right: auto;
   }
 }
 
@@ -854,6 +883,21 @@ body {
 .upload__btn {
   grid-column: 1 / -1;
   justify-self: center;
+}
+
+@media only screen and (width <= 50em) {
+  .add-recipe-window {
+    object-fit: cover;
+    object-position: center;
+    width: auto;
+    margin-top: 10em;
+    position: absolute;
+  }
+
+  .upload {
+    flex-direction: column;
+    display: flex;
+  }
 }
 
 /*# sourceMappingURL=index.f7626f62.css.map */
