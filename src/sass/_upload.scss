@@ -1,3 +1,5 @@
+$bp-medium1: 50em; // 800px
+$bp-smallest1: 50em; // 800px
 .add-recipe-window {
   position: fixed;
   top: 50%;
@@ -96,4 +98,18 @@
     grid-column: 1 / -1;
     justify-self: center;
   }
+}
+
+@media only screen and (max-width: $bp-medium1) {
+  .add-recipe-window{
+    width:auto;
+    object-fit:cover;
+    object-position: center;
+    position: absolute;
+    margin-top: 10em;
+  }
+  .upload{
+    display: flex;
+    flex-direction: column;
+ }
 }

@@ -1,3 +1,5 @@
+$bp-medium1: 50em; // 800px
+$bp-small1: 41em; // 650px
 $bp-smallest: 33.75em; // 540px
 
 .recipe {
@@ -139,9 +141,25 @@ $bp-smallest: 33.75em; // 540px
     gap: 2.5rem 3rem;
     list-style: none;
   }
-  @media only screen and (max-width: $bp-smallest){
+  @media only screen and (max-width: $bp-small1){
+    &__ingredients{
+      padding: 2.5rem 4rem;
+      justify-content: center;
+    }
     &__ingredient-list  {
-      display: block;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2px;
+    }
+    &__details{
+      margin-top: 30px;
+      padding: 4rem 4rem 1.5rem;
+      flex-direction: column;
+      align-items: center;
+    }
+    &__user-generated {
+      margin-right: auto;
     }
   }
 

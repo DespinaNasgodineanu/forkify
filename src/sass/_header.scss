@@ -1,3 +1,4 @@
+$bp-small1: 41em; // 650px
 $bp-smallest: 33.75em;// 540px
 
 .header {
@@ -69,16 +70,7 @@ $bp-smallest: 33.75em;// 540px
   }
   
 }
-@media only screen and (max-width: $bp-smallest){
-  .search__btn {
-    position: absolute;
-    right: 0;
-    font-weight: 300;
-  }
-  .search{
-    border: 0.5px solid grey;
-  }
-}
+
 .nav {
   align-self: stretch;
   margin-right: 2.5rem;
@@ -169,5 +161,25 @@ $bp-smallest: 33.75em;// 540px
   .nav__btn--bookmarks:hover + & {
     visibility: visible;
     opacity: 1;
+  }
+}
+
+@media only screen and (max-width: $bp-small1){
+  .bookmarks {
+    right: 10.5rem;
+  }
+}
+
+@media only screen and (max-width: $bp-smallest){
+  .search__btn {
+    position: absolute;
+    right: 0;
+    font-weight: 300;
+  }
+  .search{
+    border: 0.5px solid grey;
+  }
+  .bookmarks {
+    right: -10.5rem;
   }
 }
